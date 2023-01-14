@@ -1,0 +1,19 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+  ImageUrl: "https://joundy.me/images/profile.jfif"
+  ResumeUrl: "/resume"
+  ResumeText: "Jon's Resume"
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
